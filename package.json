@@ -1,0 +1,24 @@
+{
+  "name": "projet_developpement_web_avancee_redis_varnish",
+  "version": "1.0.0",
+  "description": "Mise en place d'une application nodejs qui va integres les caches redis et varnish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "nodemon",
+    "sequelize",
+    "varnish",
+    "redis",
+    "dotenv"
+  ],
+  "author": "Thierno Amadou Malady Diallo, Mamadou Korka Diallo",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
